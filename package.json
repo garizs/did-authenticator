@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/garizs/did-authenticator",
   "dependencies": {
+    "js-toolkit-apollo156": "^1.0.0",
     "simple-did-resolver": "^1.0.0"
   }
 }
